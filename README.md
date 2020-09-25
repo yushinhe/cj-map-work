@@ -1,2 +1,1 @@
 # cj-map-work
-**test
